@@ -17,7 +17,7 @@ defaults:
 title: Minimalism
 name: minimalism
 description: Minimalism is a jekyll theme for minimalist
-
+remote_theme: showzeng/Minimalism
 github: https://github.com/showzeng/Minimalism
 rss: true
 
